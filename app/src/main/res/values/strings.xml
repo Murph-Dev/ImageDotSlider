@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageDotSliderSample</string>
+
+    <integer-array name="image_id_array">
+        <item>@drawable/slider_test</item>
+        <item>@drawable/slider_test</item>
+        <item>@drawable/slider_test</item>
+        <item>@drawable/slider_test</item>
+        <item>@drawable/slider_test</item>
+    </integer-array>
+</resources>
