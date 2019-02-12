@@ -16,6 +16,7 @@ implementation 'com.duplex.imagedotslider:imagedotslider:1.0.0'
         android:layout_width="match_parent"
         app:imageResources="@array/image_id_array" />
 ```
+NOTE: Make sure you set your imageResources to the name of your image array!
 
 ###### Create this image array in your strings.xml file
 ```xml
