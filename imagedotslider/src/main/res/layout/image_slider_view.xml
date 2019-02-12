@@ -19,6 +19,7 @@
             android:layout_gravity="bottom|center_horizontal"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
             app:tabBackground="@drawable/tab_selector"
             app:tabUnboundedRipple="true"
             app:tabRippleColor="@android:color/transparent"
