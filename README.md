@@ -1,6 +1,12 @@
 # ImageDotSlider
 An android library for making simple image slider carousels
 
+##### Features
+- Listeners for Page Scrolling
+- Listeners for Page Scoll State Changes
+- Listeners for Clicking on Page
+- Quick implementation
+
 
 ## How to use
 ###### Add the following to your app build.gradle file
