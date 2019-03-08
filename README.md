@@ -5,7 +5,7 @@ An android library for making simple image slider carousels
 ## How to use
 ###### Add the following to your app build.gradle file
 ```kotlin
-implementation 'com.duplex.imagedotslider:imagedotslider:1.0.0'
+implementation 'com.duplex.imagedotslider:imagedotslider:1.0.2'
 ```
 
 ###### Add this view to your layout file
