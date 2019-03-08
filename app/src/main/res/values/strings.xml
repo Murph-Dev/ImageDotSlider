@@ -2,10 +2,10 @@
     <string name="app_name">ImageDotSliderSample</string>
 
     <integer-array name="image_id_array">
-        <item>@drawable/slider_test</item>
-        <item>@drawable/slider_test</item>
-        <item>@drawable/slider_test</item>
-        <item>@drawable/slider_test</item>
-        <item>@drawable/slider_test</item>
+        <item>@drawable/image01</item>
+        <item>@drawable/image02</item>
+        <item>@drawable/image03</item>
+        <item>@drawable/image04</item>
+        <item>@drawable/image05</item>
     </integer-array>
 </resources>
