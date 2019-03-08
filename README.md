@@ -1,6 +1,8 @@
 # ImageDotSlider
 An android library for making simple image slider carousels
 
+![](Exploration_PhotoSlider_Library.gif)
+
 ##### Features
 - Listeners for Page Scrolling
 - Listeners for Page Scoll State Changes
